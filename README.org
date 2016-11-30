@@ -2,6 +2,6 @@
 
 -----
 
-* Intro
+** Intro
 
 Just a *M-tool* 's backup.
